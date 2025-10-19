@@ -13,6 +13,8 @@ This repository consists in the application of machine learning models and algor
 - Visualized results through confusion matrices and performance comparison charts;
 - Drew conclusions on the most effective algorithm for asteroid hazard prediction.
 
+# Screenshots
+
 # Authors
 - Afonso Gouveia Dias
 - Pedro Henrique Pessôa Camargo
