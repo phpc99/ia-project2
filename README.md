@@ -13,7 +13,9 @@ This repository consists in the application of machine learning models and algor
 - Visualized results through confusion matrices and performance comparison charts;
 - Drew conclusions on the most effective algorithm for asteroid hazard prediction.
 
-# Screenshots
+# Report
+
+https://github.com/phpc99/ia-project2/blob/main/notebook.ipynb
 
 # Authors
 - Afonso Gouveia Dias
